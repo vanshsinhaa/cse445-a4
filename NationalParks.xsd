@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns="https://vanshsinhaa.github.io/cse445-a4"
+   targetNamespace="https://vanshsinhaa.github.io/cse445-a4"
    elementFormDefault="qualified" attributeFormDefault="unqualified">
 
   <xs:element name="NationalParks" type="NationalParksType"/>
