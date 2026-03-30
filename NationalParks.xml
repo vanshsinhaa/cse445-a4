@@ -139,4 +139,29 @@
     </Address>
   </NationalPark>
 
+  <NationalPark Rating="4.3">
+    <Name>Shenandoah</Name>
+    <Phone>540-999-3500</Phone>
+    <Phone>540-999-3501</Phone>
+    <Address NearestAirport="Dulles International">
+      <Number>3655</Number>
+      <Street>US Highway 211 East</Street>
+      <City>Luray</City>
+      <State>VA</State>
+      <Zip>22835</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Everglades</Name>
+    <Phone>305-242-7700</Phone>
+    <Address NearestAirport="Miami International">
+      <Number>40001</Number>
+      <Street>State Road 9336</Street>
+      <City>Homestead</City>
+      <State>FL</State>
+      <Zip>33034</Zip>
+    </Address>
+  </NationalPark>
+
 </NationalParks>
